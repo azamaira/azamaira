@@ -8,13 +8,6 @@
 
 <br>
 
-<a href="https://github.com/azamaira">
-  <img src="https://img.shields.io/badge/GitHub-azamaira-18181B?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/azamaira">
-  <img src="https://img.shields.io/github/followers/azamaira?style=flat-square&label=followers&color=9BB7D4" />
-</a>
-
 </div>
 
 ---
