@@ -18,9 +18,6 @@ hi! i'm **aza**, a software engineering student from Indonesia.
 
 i enjoy exploring **front-end development** and **ui/ux design** — creating simple interfaces and learning something new along the way.
 
-### currently learning
-
-`laravel` · `javascript` · `ui/ux`
 
 ### tech stack
 
