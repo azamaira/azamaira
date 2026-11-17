@@ -4,6 +4,10 @@
   Repository: azamaira
 -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Welcome,%20I'm%20Azaa!%20✨&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
 <div align="center">
 
 <img
