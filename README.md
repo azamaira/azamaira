@@ -12,8 +12,8 @@
   src="./floral-hero-HD-tanpa-blur-1920x1080.gif"
   width="90%"
   height="35%"
-  border-radius="10%"
   alt="Dreamy floral garden"
+  style="border-radius: 24px;"
 />
 
 <h1>AZAMAIRA</h1>
