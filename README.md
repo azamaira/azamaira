@@ -11,6 +11,7 @@
 <img
   src="./floral-hero-HD-tanpa-blur-1920x1080.gif"
   width="85%"
+  height="40%"
   alt="Dreamy floral garden"
 />
 
