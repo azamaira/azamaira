@@ -13,170 +13,224 @@
   style="border-radius: 90px;"
 />
 
-<h1>AZAMAIRA</h1>
+# 🌷 AZAMAIRA
+
+### ✿ Growing ideas into beautiful digital experiences ✿
 
 <p>
-  <i>Growing ideas into beautiful digital experiences.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3000&pause=1000&color=E89BB5&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Frontend+Developer+Enthusiast;Learning+%26+Creating+Something+Beautiful" />
 </p>
 
-</div>
+<img src="https://img.shields.io/badge/Creative-Mindset-FFE1EB?style=flat-square&labelColor=FFE1EB&color=F4B8CC"/>
+<img src="https://img.shields.io/badge/Always-Learning-E4D9FA?style=flat-square&labelColor=E4D9FA&color=C9B5E8"/>
+<img src="https://img.shields.io/badge/Building-Dreams-FFF0C9?style=flat-square&labelColor=FFF0C9&color=F5CE75"/>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3200&pause=900&color=737B86&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Curious+mind.+Creative+process.;Learning%2C+building%2C+and+growing+every+day." alt="Animated introduction" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-azamaira-343a40?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Always%20learning-e7ebf0?style=flat-square&labelColor=ffffff&color=dfe4ea" />
-</p>
+<br/><br/>
 
 </div>
 
 ---
-
-## ABOUT ME
-
-Hi, I'm **Khanza** — a Software Engineering student who enjoys exploring how technology and design come together.
-
-I'm interested in building digital experiences, especially on the frontend side. I like learning by making things, experimenting with ideas, and improving each project one step at a time.
-
-- Currently learning and exploring web development.
-- Interested in **Frontend Development**, **UI/UX**, and creative technology.
-- Enjoy turning ideas into clean and useful interfaces.
-- Believe that every small project is a chance to get better.
-
----
-
-## MY SOUNDTRACK
-
-*A little music for the moments behind the screen.*
 
 <div align="center">
 
-| NOW PLAYING |
-|:---:|
-| **Location Unknown** |
-| *Placeholder — soundtrack link coming soon* |
-| [Open Spotify](https://open.spotify.com/) |
+## 🦋 ABOUT ME
+
+*Getting to know the person behind the code.*
 
 </div>
 
-> I'll replace this with a song that feels like me soon.
+Hi! I'm **Khanza**, a Software Engineering student who loves exploring technology, creativity, and digital experiences.
 
----
+I enjoy learning how things work, experimenting with new ideas, and transforming concepts into functional and beautiful interfaces.
 
-## TECH STACK
+🌸 Currently exploring web development.
 
-### Languages
+💗 Interested in Frontend Development and UI/UX Design.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp" alt="Programming languages" />
-</p>
+🌻 Learning new technologies and improving my coding skills.
 
-### Frameworks & Database
+🦋 Believing that every little progress matters.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,mysql" alt="Frameworks and database" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development tools" />
-</p>
-
----
-
-## PORTFOLIO & PROJECTS
-
-*A work in progress. Good things take time.*
+<br/>
 
 <div align="center">
 
-| PROJECTS | STATUS |
+*"Like flowers, we grow at our own pace."*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎧 MY SOUNDTRACK
+
+*A little melody that accompanies my journey.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/♫-MY%20CURRENT%20MOOD-ECC8D7?style=for-the-badge&labelColor=F8E8EF"/>
+
+<br/><br/>
+
+### 🎵 Location Unknown
+
+**Artist:** To be updated
+
+[Listen on Spotify](https://open.spotify.com/)
+
+<br/>
+
+<sub>Music makes ordinary moments feel special.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 MY TECH STACK
+
+*Tools and technologies I'm exploring.*
+
+### 🌐 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp&theme=light" />
+
+<br/><br/>
+
+### ⚙️ Frameworks & Database
+
+<img src="https://skillicons.dev/icons?i=laravel,mysql&theme=light" />
+
+<br/><br/>
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌼 PORTFOLIO & PROJECTS
+
+*Little ideas, growing into something bigger.*
+
+</div>
+
+<div align="center">
+
+| ✨ MY WORK | 🌱 STATUS |
 |:---:|:---:|
-| Portfolio Website | `COMING SOON` |
-| Featured Projects | `IN PROGRESS` |
-| More Experiments | `LOADING...` |
+| Personal Portfolio | 🩷 Coming Soon |
+| Featured Projects | 💜 In Progress |
+| Creative Experiments | 💛 Growing |
 
 </div>
 
-My projects will appear here as I build, learn, and explore new ideas.
+<p align="center">
+  <i>Every project is a new opportunity to learn something different.</i>
+</p>
 
 ---
 
-## GITHUB ACTIVITY
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=azamaira&show_icons=true&hide_border=true&bg_color=ffffff&title_color=343a40&text_color=737b86&icon_color=8995a5&ring_color=8995a5&include_all_commits=true" alt="GitHub statistics" />
+## 📊 MY GITHUB ACTIVITY
 
-<img height="165" src="https://streak-stats.demolab.com?user=azamaira&hide_border=true&background=FFFFFF&ring=8995A5&fire=8995A5&currStreakLabel=343A40&sideLabels=737B86&currStreakNum=343A40&sideNums=343A40&dates=A0A7B1" alt="GitHub streak statistics" />
+*Every contribution tells a little story.*
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamaira&layout=compact&hide_border=true&bg_color=ffffff&title_color=343a40&text_color=737b86&langs_count=8" alt="Most used programming languages" />
+<br/>
 
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=azamaira&bg_color=ffffff&color=737b86&line=8995a5&point=343a40&area=true&hide_border=true" alt="GitHub contribution graph" />
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=azamaira&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=D982A5&text_color=8D7480&icon_color=E9A8BE&ring_color=E9A8BE&include_all_commits=true"/>
+
+<img width="49%"
+src="https://streak-stats.demolab.com?user=azamaira&hide_border=true&background=FFF5F8&ring=E9A8BE&fire=E7B65D&currStreakLabel=D982A5&sideLabels=9C8290&currStreakNum=D982A5&sideNums=9C8290&dates=B5A0AA"/>
+
+<br/><br/>
+
+### 🌈 Most Used Languages
+
+<img width="55%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamaira&layout=compact&hide_border=true&bg_color=FFF5F8&title_color=D982A5&text_color=8D7480&langs_count=8"/>
+
+<br/><br/>
+
+### 🌷 Contribution Graph
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=azamaira&bg_color=FFF5F8&color=D982A5&line=E9A8BE&point=E7B65D&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## CONNECT WITH ME
-
-*Always happy to connect, exchange ideas, and learn from other people.*
-
 <div align="center">
+
+## 💌 CONNECT WITH ME
+
+*Let's connect, share ideas, and grow together.*
+
+<br/>
 
 <a href="https://www.instagram.com/azaamair4/">
-  <img src="https://img.shields.io/badge/Instagram-Connect-343a40?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/khanza-hamida-9163ab44b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-343a40?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/azamaira">
-  <img src="https://img.shields.io/badge/GitHub-Follow-343a40?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:khanzahamida15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-343a40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/Discord-oceana-343a40?style=flat-square&logo=discord&logoColor=white" alt="Discord: oceana" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Discord-oceana-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 
 </div>
 
 ---
 
-## FUN ZONE
-
-*A tiny corner for a little break between commits.*
-
 <div align="center">
 
-<a href="https://www.google.com/search?q=google+snake+game">
-  <img src="https://img.shields.io/badge/PLAY-Snake%20Game-e7ebf0?style=for-the-badge&labelColor=ffffff&color=dfe4ea" alt="Snake Game" />
-</a>
+## 🎮 FUN ZONE
+
+*A little playground between coding sessions.*
+
+<br/>
 
 <a href="https://humanbenchmark.com/">
-  <img src="https://img.shields.io/badge/PLAY-Reaction%20Test-e7ebf0?style=for-the-badge&labelColor=ffffff&color=dfe4ea" alt="Reaction Test" />
+  <img src="https://img.shields.io/badge/🧠%20Reaction%20Test-FFE1EB?style=for-the-badge&labelColor=FFE1EB"/>
 </a>
 
 <a href="https://lichess.org/">
-  <img src="https://img.shields.io/badge/PLAY-Chess-e7ebf0?style=for-the-badge&labelColor=ffffff&color=dfe4ea" alt="Chess" />
+  <img src="https://img.shields.io/badge/♟️%20Play%20Chess-E4D9FA?style=for-the-badge&labelColor=E4D9FA"/>
 </a>
 
-</div>
+<a href="https://www.google.com/search?q=snake+game">
+  <img src="https://img.shields.io/badge/🐍%20Snake%20Game-DFEFD9?style=for-the-badge&labelColor=DFEFD9"/>
+</a>
 
----
+<br/><br/>
 
-<div align="center">
+<sub>Take a break, play something, and enjoy the little things!</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e9edf2&height=75&section=footer&text=Thanks%20for%20visiting&fontSize=18&fontColor=737b86&animation=fadeIn" width="100%" alt="Thanks for visiting" />
+<br/><br/>
 
-<sub>Designed with curiosity · Built one commit at a time</sub>
+🌸 🌷 🦋 🌻 🌼
+
+### Thank you for visiting my little corner!
+
+<sub>Made with curiosity, creativity, and a little bit of magic.</sub>
 
 </div>
