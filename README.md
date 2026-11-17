@@ -9,7 +9,7 @@
 <div align="center">
 
 <img
-  src="./Gadis dan Bunga di Taman Musim Semi.gif"
+  src="./floral-hero-HD-tanpa-blur-1920x1080.gif"
   width="40%"
   alt="Dreamy floral garden"
 />
