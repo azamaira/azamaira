@@ -13,7 +13,7 @@
   width="90%"
   height="35%"
   alt="Dreamy floral garden"
-  style="border-radius: 24px;"
+  style="border-radius: 90px;"
 />
 
 <h1>AZAMAIRA</h1>
