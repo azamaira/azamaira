@@ -6,13 +6,21 @@
 
 <div align="center">
 
-<a href="https://github.com/azamaira">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:e9edf2,100:d8dee7&height=190&section=header&text=AZAMAIRA&fontSize=52&fontColor=343a40&fontAlignY=42&desc=Building%20ideas%20into%20digital%20experiences.&descSize=14&descAlignY=66&animation=fadeIn"
-    width="100%"
-    alt="Azamaira"
-  />
-</a>
+<div align="center">
+
+<img
+  src="./Gadis dan Bunga di Taman Musim Semi.gif"
+  width="100%"
+  alt="Dreamy floral garden"
+/>
+
+<h1>AZAMAIRA</h1>
+
+<p>
+  <i>Growing ideas into beautiful digital experiences.</i>
+</p>
+
+</div>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3200&pause=900&color=737B86&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Curious+mind.+Creative+process.;Learning%2C+building%2C+and+growing+every+day." alt="Animated introduction" />
