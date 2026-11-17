@@ -1,38 +1,30 @@
 <div align="center">
-
   <!-- TOP WAVING BANNER (WARM MOCHA & CREAM) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1E18,50:6F4E37,100:DDBEA9&height=120&section=header" width="100%" />
-
   <!-- ROLE ACCENT -->
   <p align="center">
     <sub><b style="color: #B08968;">FRONTEND DEVELOPER & UI/UX DESIGNER</b></sub>
   </p>
-
   <!-- GREETING & NAME -->
   <h1>Hello, my name is Aza !</h1>
-
   <!-- PROFILE VISITS COUNTER BADGE -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=azamaira&label=PROFILE+VISITS&color=6F4E37&style=for-the-badge" alt="Profile Visits" />
   </p>
-
   <!-- PIXEL CAT ANIMATION -->
   <p align="center">
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130" alt="Pixel Cat" />
     <br/>
     <sub><b>meow ♡</b></sub>
   </p>
-
   <!-- TYPING SVG ANIMATION (WARM CARAMEL / LATTE) -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=B08968&center=true&vCenter=true&width=560&lines=I'm+a+Software+Engineering+Student;Frontend+Developer+%26+UI%2FUX+Designer;Welcome+to+my+profile!;I+am+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
   </p>
-
   <!-- COLLAPSIBLE MORE INFO SECTION -->
   <details align="center">
     <summary><b>☕ More Info</b></summary>
     <br/>
-
     <!-- ROW 1: GITHUB STATS & CHARTS -->
     <table align="center" border="0">
       <tr>
@@ -44,7 +36,6 @@
         </td>
       </tr>
     </table>
-
     <!-- ROW 2: STREAK STATS & ACTIVITY -->
     <table align="center" border="0">
       <tr>
@@ -56,18 +47,14 @@
         </td>
       </tr>
     </table>
-
     <br/>
-
     <!-- ROW 3: TECH STACK BADGES -->
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,tailwind,bootstrap,php,laravel,mysql,git,github,vscode,figma" alt="Tech Stack" />
       </a>
     </p>
-
     <br/>
-
     <!-- ROW 4: SOCIAL MEDIA BADGES (WARM COFFEE MOCHA & CREAM) -->
     <p align="center">
       <a href="mailto:khanzahamida15@gmail.com">
@@ -90,9 +77,7 @@
         <img src="https://img.shields.io/badge/LINKEDIN-4A3525?style=for-the-badge&logo=linkedin&logoColor=EDE0D4" alt="LinkedIn" />
       </a>
     </p>
-
     <br/>
-
     <!-- ROW 5: EXTRA LINKS -->
     <p align="center">
       <sub>
@@ -102,11 +87,8 @@
         ✦ <a href="https://instagram.com/azaamaira4">instagram</a> ♡
       </sub>
     </p>
-
     <br/>
   </details>
-
   <!-- BOTTOM WAVING BANNER (WARM MOCHA & CREAM) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1E18,50:6F4E37,100:DDBEA9&height=120&section=footer" width="100%" />
-
 </div>
