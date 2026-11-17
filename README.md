@@ -10,7 +10,7 @@
 
 <img
   src="./floral-hero-HD-tanpa-blur-1920x1080.gif"
-  width="100%"
+  width="90%"
   height="35%"
   border-radius="10%"
   alt="Dreamy floral garden"
