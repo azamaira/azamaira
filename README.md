@@ -3,6 +3,19 @@
   PROFILE README
   Repository: azamaira
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Your%20Name&fontSize=35&fontColor=fff5ee&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
+<!-- Animasi Teks Perkenalan -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF9AA2&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!+%E2%9C%A8;Software+Developer+in+Training;Let's+build+something+amazing!" alt="Typing SVG" />
+</h3>
+
+<!-- Deskripsi Singkat & Palet Warna -->
+<p align="center">
+  <em>🌸 "Bringing ideas to life with a touch of pastel warmth and clean code." 🌸</em>
+</p>
 
 <div align="center">
 
