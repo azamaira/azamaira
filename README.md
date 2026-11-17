@@ -10,7 +10,7 @@
 
 <img
   src="./Gadis dan Bunga di Taman Musim Semi.gif"
-  width="100%"
+  width="40%"
   alt="Dreamy floral garden"
 />
 
